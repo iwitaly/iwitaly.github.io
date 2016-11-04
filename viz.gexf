@@ -11,127 +11,127 @@
         <viz:position x="44.266663" y="691.12256"></viz:position>
         <viz:color r="215" g="25" b="28"></viz:color>
       </node>
-      <node id="500" label="TOPIC_0">
+      <node id="500" label="Voting">
         <viz:size value="10.0"></viz:size>
         <viz:position x="964.49475" y="-701.9922"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="501" label="TOPIC_1">
+      <node id="501" label="World Politics">
         <viz:size value="10.0"></viz:size>
         <viz:position x="591.1065" y="-1414.7291"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="502" label="TOPIC_2">
+      <node id="502" label="Iraq">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-724.70264" y="1277.4941"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="503" label="TOPIC_3">
+      <node id="503" label="USA">
         <viz:size value="10.0"></viz:size>
         <viz:position x="47.881367" y="-1551.5898"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="504" label="TOPIC_4">
+      <node id="504" label="Middle Уast">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-481.6626" y="-264.3687"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="505" label="TOPIC_5">
+      <node id="505" label="Asia and Russia">
         <viz:size value="10.0"></viz:size>
         <viz:position x="1025.9242" y="-191.41612"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="506" label="TOPIC_6">
+      <node id="506" label="General 1">
         <viz:size value="10.0"></viz:size>
         <viz:position x="528.5747" y="260.87296"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="507" label="TOPIC_7">
+      <node id="507" label="Meetings">
         <viz:size value="10.0"></viz:size>
         <viz:position x="386.00665" y="-794.0746"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="508" label="TOPIC_8">
+      <node id="508" label="Forces">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-29.849611" y="-471.17078"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="509" label="TOPIC_9">
+      <node id="509" label="General 2">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-200.59586" y="543.88184"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="510" label="TOPIC_10">
+      <node id="510" label="General 3">
         <viz:size value="10.0"></viz:size>
         <viz:position x="24.201637" y="883.64484"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="511" label="TOPIC_11">
+      <node id="511" label="Iran">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-272.03256" y="-1459.3108"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="512" label="TOPIC_12">
+      <node id="512" label="Administration">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-1040.6587" y="-1080.6318"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="513" label="TOPIC_13">
+      <node id="513" label="Other 1">
         <viz:size value="10.0"></viz:size>
         <viz:position x="867.2195" y="1076.9572"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="514" label="TOPIC_14">
+      <node id="514" label="Police">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-648.5366" y="169.97551"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="515" label="TOPIC_15">
+      <node id="515" label="Haiti">
         <viz:size value="10.0"></viz:size>
         <viz:position x="445.3632" y="1167.4391"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="516" label="TOPIC_16">
+      <node id="516" label="Human right">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-1379.3735" y="434.33105"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="517" label="TOPIC_17">
+      <node id="517" label="Countries">
         <viz:size value="10.0"></viz:size>
         <viz:position x="1430.2472" y="158.69936"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="518" label="TOPIC_18">
+      <node id="518" label="Security">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-612.2753" y="-1322.8564"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="519" label="TOPIC_19">
+      <node id="519" label="Israel and Palestina">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-105.29283" y="1444.0303"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="520" label="TOPIC_20">
+      <node id="520" label="Parties">
         <viz:size value="10.0"></viz:size>
         <viz:position x="1467.5809" y="-568.90546"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="521" label="TOPIC_21">
+      <node id="521" label="Other 2">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-1092.0536" y="713.42993"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="522" label="TOPIC_22">
+      <node id="522" label="Turkey">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-1253.7618" y="-61.658833"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="523" label="TOPIC_23">
+      <node id="523" label="Korea">
         <viz:size value="10.0"></viz:size>
         <viz:position x="-1108.1722" y="-612.03253"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
       </node>
-      <node id="524" label="TOPIC_24">
+      <node id="524" label="General 4">
         <viz:size value="10.0"></viz:size>
         <viz:position x="1079.8567" y="697.30005"></viz:position>
         <viz:color r="44" g="123" b="182"></viz:color>
